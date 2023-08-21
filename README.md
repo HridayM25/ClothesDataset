@@ -11,29 +11,55 @@ Here is the exhaustive list of classes used :
 
 
   0: tshirt
+  
   1: shortsleeveshirt
+  
   2: longsleeveshirt
+  
   3: blazer
+  
   4: lehengas
+  
   5: jeans
+  
   6: trousers
+  
   7: shorts
+  
   8: capris
+  
   9: sarees
+  
   10: kurtis
+  
   11: kurtas
+  
   12: skirts
+  
   13: tunic
+  
   14: leggings
+  
   15: croptop
+  
   16: salwaar
+  
   17: vests
+  
   18: hoodies
+  
   19: joggers
+  
   20: nehrujackets
+  
   21: jumpsuit
+  
   22: playsuit
+  
   23: dresses
+  
   24: shrugs
+  
   25: jacket
+  
   26: top
